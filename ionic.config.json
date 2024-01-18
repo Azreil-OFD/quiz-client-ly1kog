@@ -1,0 +1,8 @@
+{
+  "name": "quiz-client",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite",
+  "id": "2703204b"
+}
